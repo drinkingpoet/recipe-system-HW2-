@@ -1,4 +1,3 @@
-from typing import List, Optional
 from ingredient import Ingredient
 
 #сам рецепт блюда
